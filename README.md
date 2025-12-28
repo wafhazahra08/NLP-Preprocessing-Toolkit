@@ -64,8 +64,5 @@ Toolkit ini kami rancang berdasarkan studi literatur di bidang NLP, sehingga dap
   </tr>
 </table>
 
-  
-<br> ✦ Zulaeha - 312210577 as Peneliti Literatur 📚🔍
-<br> ✦ Tyanshi Firli Maharani - 312210581 as Perancang Produk 💡🛠️
-<br> ✦ Wafha Zahra Mulqiya - 312210577 as Dokumentator & Presenter 📸📢
+#### Kami Dari Kelas TI.22.A.AI.1
 

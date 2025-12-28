@@ -33,6 +33,38 @@ Toolkit ini kami rancang berdasarkan studi literatur di bidang NLP, sehingga dap
 ## 👩‍💻 Profile Team
 #### Tim Pengembang
   Toolkit ini dikembangkan oleh kelompok 1 sebagai bagian dari tugas mata kuliah Metodologi Penelitian bidang Artificial Intelligence.
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding:20px">
+      <img src="Foto-Pengembang/zulaeha.jpg" width="160"><br>
+      <b>Zulaeha - 312210575</b><br>
+      <sub>Peneliti Literatur 📚🔍</sub>
+    </td>
+</tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding:20px">
+      <img src="Foto-Pengembang/tyanshi.jpg" width="160"><br>
+      <b>Tyanshi Firli Maharani - 312210581</b><br>
+      <sub>Perancang Produk 💡🛠️</sub>
+    </td>
+</tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding:20px">
+      <img src="Foto-Pengembang/wafha.jpg" width="160"><br>
+      <b>Wafha Zahra Mulqiya - 312210577</b><br>
+      <sub>Dokumentator & Presenter 📸📢</sub>
+    </td>
+  </tr>
+</table>
+
+  
 <br> ✦ Zulaeha - 312210577 as Peneliti Literatur 📚🔍
 <br> ✦ Tyanshi Firli Maharani - 312210581 as Perancang Produk 💡🛠️
 <br> ✦ Wafha Zahra Mulqiya - 312210577 as Dokumentator & Presenter 📸📢

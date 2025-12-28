@@ -30,6 +30,20 @@ Toolkit ini kami rancang berdasarkan studi literatur di bidang NLP, sehingga dap
 #### Akses Produk
   Toolkit dapat diunduh melalui link dibawah ini :
 
+<table>
+  <tr>
+    <th align="left">Produk</th>
+    <th align="left">Tautan</th>
+  </tr>
+
+    <td>💻 Program Utama</td>
+    <td><a href="LINK_PROGRAM">Buka Aplikasi/Program</a></td>
+  </tr>
+</table>
+
+---
+
+
 ## 👩‍💻 Profile Team
 #### Tim Pengembang
   Toolkit ini dikembangkan oleh kelompok 1 sebagai bagian dari tugas mata kuliah Metodologi Penelitian bidang Artificial Intelligence.

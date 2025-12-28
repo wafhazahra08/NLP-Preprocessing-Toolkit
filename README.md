@@ -1,9 +1,13 @@
 # NLP-Preprocessing-Toolkit
 Welcome to our Project!👋
 
+---
+
 ### 🏷️ Tentang Produk
 NLP Preprocessing Toolkit adalah sebuah toolkit profesional yang dirancang untuk membantu proses text preprocessing sebelum dilakukan pemodelan Natural Language Processing (NLP).
 Toolkit ini kami rancang berdasarkan studi literatur di bidang NLP, sehingga dapat digunakan secara sistematis oleh praktisi, peneliti maupun institusi.
+
+---
 
 ### ✨ Manfaat Produk
 1. Membantu pengguna memahami tahapan preprocessing NLP secara sistematis
@@ -11,6 +15,8 @@ Toolkit ini kami rancang berdasarkan studi literatur di bidang NLP, sehingga dap
 3. Meningkatkan kualitas data sebelum pemodelan NLP
 4. Mempercepat proses analisis teks dengan panduan yang terstruktur
 5. Dapat digunakan sebagai referensi standar preprocessing teks
+
+---
 
 ### 👉🚀 Fitur Utama
 1. Pipeline Preprocessing NLP
@@ -22,27 +28,34 @@ Toolkit ini kami rancang berdasarkan studi literatur di bidang NLP, sehingga dap
 4. Contoh Implementasi
 <br> ☆ Ilustrasi penerapan preprocessing pada data teks
 
+---
+
 ### 🖼️ Screenshot Produk
 #### Tampilan Toolkit
   Berikut adalah beberapa tangkapan layar yang menampilkan struktur pipeline, checklist, dan dokumentasi penggunaan NLP Preprocessing Toolkit.
 
+---
+
 ### 📥 Link Download
 #### Akses Produk
-  Toolkit dapat diunduh melalui link dibawah ini :
+  Toolkit dapat diunduh melalui link di bawah ini:
 
 <table>
   <tr>
     <th align="left">Produk</th>
     <th align="left">Tautan</th>
   </tr>
-
+  <tr>
     <td>💻 Program Utama</td>
-    <td><a href="LINK_PROGRAM">Buka Aplikasi/Program</a></td>
+    <td>
+      <a href="https://huggingface.co/spaces/Wafha/Metopen_NLP">
+        https://huggingface.co/spaces/Wafha/Metopen_NLP
+      </a>
+    </td>
   </tr>
 </table>
 
 ---
-
 
 ## 👩‍💻 Profile Team
 #### Tim Pengembang
@@ -78,5 +91,12 @@ Toolkit ini kami rancang berdasarkan studi literatur di bidang NLP, sehingga dap
   </tr>
 </table>
 
-#### Kami Dari Kelas TI.22.A.AI.1
+---
 
+## Dokumentasi 
+### Panduan Penggunaan
+
+---
+
+## Our Contact
+📧 email : zulaeha168@gmail.com

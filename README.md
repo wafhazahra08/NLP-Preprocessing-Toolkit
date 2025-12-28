@@ -24,7 +24,7 @@ Toolkit ini kami rancang berdasarkan studi literatur di bidang NLP, sehingga dap
 2. Checklist Preprocessing
 <br> ☆ Daftar langkah wajib yang harus dilakukan sebelum pemodelan NLP
 3. Panduan Teknis
-<br> ☆ Penjelasan setiap tahapan seperti tokenisasi, stopword removal, dan stemming
+<br> ☆ Penjelasan setiap tahapan seperti case folding, tokenisasi, stopword removal, normalization dan stemming
 4. Contoh Implementasi
 <br> ☆ Ilustrasi penerapan preprocessing pada data teks
 
@@ -32,7 +32,7 @@ Toolkit ini kami rancang berdasarkan studi literatur di bidang NLP, sehingga dap
 
 ### 🖼️ Screenshot Produk
 #### Tampilan Toolkit
-  Berikut adalah beberapa tangkapan layar yang menampilkan struktur pipeline, checklist, dan dokumentasi penggunaan NLP Preprocessing Toolkit.
+  Berikut adalah beberapa tangkapan layar yang menampilkan struktur pipeline, checklist dan dokumentasi penggunaan NLP Preprocessing Toolkit.
 
 ---
 
@@ -58,8 +58,7 @@ Toolkit ini kami rancang berdasarkan studi literatur di bidang NLP, sehingga dap
 ---
 
 ## 👩‍💻 Profile Team
-#### Tim Pengembang
-  Toolkit ini dikembangkan oleh kelompok 1 sebagai bagian dari tugas mata kuliah Metodologi Penelitian bidang Artificial Intelligence.
+  Toolkit ini dibuat oleh kelompok 1 sebagai bagian dari tugas mata kuliah Metodologi Penelitian bidang Artificial Intelligence.
 
 <table align="center">
   <tr>
@@ -99,4 +98,7 @@ Toolkit ini kami rancang berdasarkan studi literatur di bidang NLP, sehingga dap
 ---
 
 ## Our Contact
-📧 email : zulaeha168@gmail.com
+📧 email : 
+<br> zulaeha.312210575@mhs.pelitabangsa.ac.id
+<br> wafha.312210577@mhs.pelitabangsa.ac.id
+<br> tyanshi.312210581@mhs.pelitabangsa.ac.id

@@ -59,7 +59,16 @@ Toolkit ini kami rancang berdasarkan studi literatur di bidang NLP, sehingga dap
     <td>💻 Program Utama</td>
     <td>
       <a href="https://huggingface.co/spaces/Wafha/Metopen_NLP">
-        https://huggingface.co/spaces/Wafha/Metopen_NLP
+        Produk Toolkit
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>💻 Checklist</td>
+    <td>
+      <a href="https://docs.google.com/spreadsheets/d/1PV6M36uH5FL2UhRawN49bOppDExY2EZRryv6UPYw1v4/edit?usp=sharing">
+        Checklist
       </a>
     </td>
   </tr>

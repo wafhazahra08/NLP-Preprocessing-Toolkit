@@ -3,13 +3,13 @@ Welcome to our Project!👋
 
 ---
 
-### 🏷️ Tentang Produk
+## 🏷️ Tentang Produk
 NLP Preprocessing Toolkit adalah sebuah toolkit profesional yang dirancang untuk membantu proses text preprocessing sebelum dilakukan pemodelan Natural Language Processing (NLP).
 Toolkit ini kami rancang berdasarkan studi literatur di bidang NLP, sehingga dapat digunakan secara sistematis oleh praktisi, peneliti maupun institusi.
 
 ---
 
-### ✨ Manfaat Produk
+## ✨ Manfaat Produk
 1. Membantu pengguna memahami tahapan preprocessing NLP secara sistematis
 2. Mengurangi kesalahan dalam pengolahan data teks
 3. Meningkatkan kualitas data sebelum pemodelan NLP
@@ -18,7 +18,7 @@ Toolkit ini kami rancang berdasarkan studi literatur di bidang NLP, sehingga dap
 
 ---
 
-### 👉🚀 Fitur Utama
+## 👉🚀 Fitur Utama
 1. Pipeline Preprocessing NLP
 <br> ☆ Panduan alur prapemrosesan teks dari data mentah hingga data siap model
 2. Checklist Preprocessing
@@ -30,13 +30,23 @@ Toolkit ini kami rancang berdasarkan studi literatur di bidang NLP, sehingga dap
 
 ---
 
-### 🖼️ Screenshot Produk
-#### Tampilan Toolkit
+## 🖼️ Screenshot Produk
+### Tampilan Toolkit
   Berikut adalah beberapa tangkapan layar yang menampilkan struktur pipeline, checklist dan dokumentasi penggunaan NLP Preprocessing Toolkit.
+
+#### <br> ⚙️ Dashboard NLP Preprocessing Toolkit
+<br> ![11111](https://github.com/user-attachments/assets/9f630a16-eddd-428f-a986-8c20651fccb8)
+
+#### <br> 📊 Tampilan Data Awal pada NLP Preprocessing Toolkit
+<br> ![2222](https://github.com/user-attachments/assets/992bd2ec-468f-4a00-bc25-0ef7fb9aaa60)
+
+#### <br> 🔄 Tampilan Hasil Preprocessing Data Teks
+<br> ![3333](https://github.com/user-attachments/assets/80f8a825-3fda-4189-9696-107a330e5feb)
+
 
 ---
 
-### 📥 Link Download
+## 📥 Link Download
 #### Akses Produk
   Toolkit dapat diunduh melalui link di bawah ini:
 

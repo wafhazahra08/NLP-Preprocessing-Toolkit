@@ -114,7 +114,7 @@ Toolkit ini kami rancang berdasarkan studi literatur di bidang NLP, sehingga dap
 ## Dokumentasi 
 ### Panduan Penggunaan
 
-<a href="Panduan_Toolkit.pdf" target="_blank">📄 Lihat Petunjuk Penggunaan</a>
+[📄 Lihat Petunjuk Penggunaan](Panduan_Toolkit.pdf)
 
 ---
 

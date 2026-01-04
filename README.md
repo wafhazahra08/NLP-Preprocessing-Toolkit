@@ -114,15 +114,7 @@ Toolkit ini kami rancang berdasarkan studi literatur di bidang NLP, sehingga dap
 ## Dokumentasi 
 ### Panduan Penggunaan
 
-st.subheader("📘 Dokumentasi Penggunaan")
-
-with open("Panduan_Toolkit.pdf", "rb") as file:
-    st.download_button(
-        label="Unduh Panduan (PDF)",
-        data=file,
-        file_name="Panduan_Toolkit.pdf",
-        mime="application/pdf"
-    )
+<a href="Panduan_Toolkit.pdf" target="_blank">📄 Lihat Petunjuk Penggunaan</a>
 
 ---
 

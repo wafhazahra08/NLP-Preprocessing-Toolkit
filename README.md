@@ -114,7 +114,7 @@ Toolkit ini kami rancang berdasarkan studi literatur di bidang NLP, sehingga dap
 ## Dokumentasi 
 ### Panduan Penggunaan
 
-[📄 Lihat Petunjuk Penggunaan](NLP-Preprocessing-Toolkit/Panduan_Toolkit.pdf)
+[📄 Lihat Petunjuk Penggunaan](Panduan_Toolkit.pdf)
 
 ---
 
